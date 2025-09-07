@@ -23,7 +23,7 @@ int main() {
 
     int x = 4; // Integer
     int y = 6; // Integer
-    int z = 4.45; // Float assigned to an integer variable, the decimal part will be truncated
+    int z = 4; // Float assigned to an integer variable, the decimal part will be truncated
     
     printf(" %d.\n", z); // Will print 4
     printf("The sum of %d and %d is %d.\n", x, y, x + y);
@@ -36,6 +36,8 @@ int main() {
     // x *= 2; // x = x * 2;
     // x /= 2; // x = x / 2;
     // x %= 2; // x = x % 2;    
-    
+
+    // Input FROM USER - scanf function
+  
     return 0;
 }
