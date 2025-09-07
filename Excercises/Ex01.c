@@ -14,14 +14,22 @@ int main() {
     printf("My name is %s.\n", full_name); // %s for strings
 
     // Aritimetic operations + - * / % (modulus - remainder of a division)
-    
+
+    // z = x + y; // Addition
+    // z = x - y; // Subtraction
+    // z = x * y; // Multiplication
+    // z = x / y; // Division
+    // z = x % y; // Modulus
 
     int x = 4; // Integer
     int y = 6; // Integer
     int z = 4.45; // Float assigned to an integer variable, the decimal part will be truncated
-
+    
+    printf(" %d.\n", z); // Will print 4
     printf("The sum of %d and %d is %d.\n", x, y, x + y);
     printf("The division of %d by %d is %d.\n", y, x, y / x); // Integer division
+
+    //Arg
     
     return 0;
 }
