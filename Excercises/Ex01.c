@@ -13,6 +13,9 @@ int main() {
     printf("My first name starts with the letter %c.\n", name); // %c for single characters
     printf("My name is %s.\n", full_name); // %s for strings
 
+    // Aritimetic operations + - * / % (modulus - remainder of a division)
+    
+
     int x = 4; // Integer
     int y = 6; // Integer
     int z = 4.45; // Float assigned to an integer variable, the decimal part will be truncated
