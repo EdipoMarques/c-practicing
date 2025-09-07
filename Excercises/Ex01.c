@@ -12,6 +12,10 @@ int main() {
     printf("I am %d years old and %.1f meters tall.\n", age, height);
     printf("My first name starts with the letter %c.\n", name); // %c for single characters
     printf("My name is %s.\n", full_name); // %s for strings
+
+    int x = 4;
+    int y = 6;
+    printf("The sum of %d and %d is %d.\n", x, y, x + y);
     
     return 0;
 }
