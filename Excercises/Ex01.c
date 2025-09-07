@@ -29,7 +29,13 @@ int main() {
     printf("The sum of %d and %d is %d.\n", x, y, x + y);
     printf("The division of %d by %d is %d.\n", y, x, y / x); // Integer division
 
-    //Arg
+    //Augmented assignments
+    
+    // x += 2; // x = x + 2;
+    // x -= 2; // x = x - 2;
+    // x *= 2; // x = x * 2;
+    // x /= 2; // x = x / 2;
+    // x %= 2; // x = x % 2;    
     
     return 0;
 }
