@@ -39,7 +39,19 @@ int main() {
 
     // Input FROM USER - scanf function
 
-    printf("Hello World!\n");
+    //int age; // I am just delcared the variable
+    // int age = 24; // I am declaring and initializing the variable
+
+    //int age;
+    //float height;
+    //char name[30]; // Array of characters (string) with a limit of 30. I nedd to specify the size of the array
+    //char full_name[50]; // Array of characters (string) with a limit of 50. I nedd to specify the size of the array
+    
+    int age = 0;
+    printf("Enter your age: ");
+    scanf("%d", &age); // & is the address operator, it gives the memory address of the variable
+    printf("You are %d years old.\n", age);
+    
   
     return 0;
 }
