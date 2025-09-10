@@ -48,9 +48,12 @@ int main() {
     //char full_name[50]; // Array of characters (string) with a limit of 50. I nedd to specify the size of the array
     
     int age = 0;
+    float height = 1.89;
     printf("Enter your age: ");
     scanf("%d", &age); // & is the address operator, it gives the memory address of the variable
     printf("You are %d years old.\n", age);
+    printf("Enter your height: ");
+    scanf("%f", &height);
     
   
     return 0;
