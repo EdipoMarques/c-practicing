@@ -54,6 +54,7 @@ int main() {
     printf("You are %d years old.\n", age);
     printf("Enter your height: ");
     scanf("%f", &height);
+    printf("You are %.2f meters tall.\n", height);
     
   
     return 0;
