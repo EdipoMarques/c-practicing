@@ -45,7 +45,7 @@ int main() {
     //int age;
     //float height;
     //char name[30]; // Array of characters (string) with a limit of 30. I nedd to specify the size of the array
-    //char full_name[50]; // Array of characters (string) with a limit of 50. I nedd to specify the size of the array
+    //char full_name[50]; // Array of characters (strings) with a limit of 50. I nedd to specify the size of the array
     
     int age = 0;
     float height = 0;
