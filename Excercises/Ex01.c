@@ -55,7 +55,7 @@ int main() {
     printf("Enter your height: ");
     scanf("%f", &height);
     printf("You are %.2f meters tall.\n", height);
-    //printf("Enter here your name: ");
+    //printf("Enter your name: ");
     //scanf("%s", name); // No need to use & for strings, because the name of the array is already a pointer to the first element of the array
     //printf("Your name is %s.\n", name);
     //printf("Enter your full name: ");
