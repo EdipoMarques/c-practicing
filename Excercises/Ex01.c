@@ -49,7 +49,7 @@ int main() {
     
     int age = 0;
     float height = 0;
-    printf("Enter your age: ");
+    printf("Enter age: ");
     scanf("%d", &age); // & is the address operator, it gives the memory address of the variable
     printf("You are %d years old.\n", age);
     printf("Enter your height: ");
