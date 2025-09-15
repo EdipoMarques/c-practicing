@@ -37,7 +37,7 @@ int main() {
     // x /= 2; // x = x / 2;
     // x %= 2; // x = x % 2;    
 
-    // Input FROM USER , scanf function
+    // Input FROM USER - scanf function
 
     //int age; // I am just delcared the variable
     // int age = 24; // I am declaring and initializing the variable
