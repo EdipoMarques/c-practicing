@@ -2,13 +2,13 @@
 
 void	ft_print_alphabet(void)
 {
-	char	letter;
+	char	letters;
 
-	letter = 'a';
-	while (letter <= 'z')
+	letters = 'a';
+	while (letters <= 'z')
 	{
-		write(1, &letter, 1);
-		letter++;
+		write(1, &letters, 1);
+		letters++;
 	}
 }
 
