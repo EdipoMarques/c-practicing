@@ -4,8 +4,8 @@ void	ft_print_alphabet(void)
 {
 	char	letters;
 
-	letters = 'a';
-	while (letters <= 'z')
+	letters = '0';
+	while (letters <= '9')
 	{
 		write(1, &letters, 1);
 		letters++;
