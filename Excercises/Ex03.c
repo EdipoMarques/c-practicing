@@ -14,6 +14,6 @@ void	ft_print_alphabet(void)
 
 int    main(void)
 {
-    ft_print_alphabet(); // call function
+    ft_print_alphabet(); // call the function
     return (0);
 }
