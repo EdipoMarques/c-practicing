@@ -8,7 +8,7 @@ int main() {
     //char full_name[] = "Édipo Marques de Lima"; // String (array of characters), thats why we use double quotes and []
 
     //printf("I am %d years old.\n", age);
-    //printf("I am %.1f meters tall.\n", height);
+    //printf("I am %.1 meters tall.\n", height);
     //printf("I am %d years old and %.1f meters tall.\n", age, height);
     //printf("My first name starts with the letter %c.\n", name); // %c for single characters
     //printf("My name is %s.\n", full_name); // %s for strings
