@@ -40,7 +40,7 @@ int main() {
     // Input FROM USER - scanf function
 
     // int age; // I am just delcared the variable
-    // int age = 24; // I am declaring and initializing the variable
+    // int age = 24; // I am declring and initializing the variable
 
     //int age;
     //float heights
